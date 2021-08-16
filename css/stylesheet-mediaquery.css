@@ -1,0 +1,22 @@
+@media screen and (max-width:700px) {
+    body{
+        background-image: url("../images/pattern-background-mobile.svg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .card{
+        width: 80%;
+    }
+        .annual h2{
+            font-size:15px;
+        }
+        .annual p{
+            font-size: 15px;
+        }
+        .icon{
+            display: flex;
+            width: 40px;
+            height: 40px;
+        }
+
+}
